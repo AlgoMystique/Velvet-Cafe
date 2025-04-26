@@ -38,7 +38,13 @@ To run the project locally:
 2. Navigate to the project folder and open `index.html` in your browser.
 
 ## Screenshots
+### Home Page
+![Home Page](./assets/images/homepage-screenshot.png)
 
+### Menu Section
+![Menu Section](./assets/images/menu-screenshot.png)
 
+### Contact Form
+![Contact Form](./assets/images/contactform-screenshot.png)
 ## License
 This project is licensed under the [MIT License](LICENSE).
