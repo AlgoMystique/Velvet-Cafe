@@ -1,6 +1,3 @@
-# Velvet-Cafe
-A simple website for a cafe
-
 # Velvet Cafe
 
 Welcome to **Velvet Cafe**! ☕✨  
