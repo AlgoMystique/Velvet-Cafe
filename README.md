@@ -54,4 +54,4 @@ cd velvet-cafe
 ```
 ## Live Demo
 
-Check out the live version here: [Velvet Cafe Live Site](https://AlgoMystique.github.io/velvet-cafe)
+Check out the live version here: [Velvet Cafe Live Site](https://algomystique.github.io/Velvet-Cafe)
