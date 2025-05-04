@@ -7,6 +7,7 @@ This is a simple yet elegant web page for a fictional cafe, designed to deliver 
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Design Principles](#design-principles)
 - [Getting Started](#getting-started)
 - [Screenshots](#screenshots)
 - [Future Improvements](#future-improvements)
@@ -14,6 +15,8 @@ This is a simple yet elegant web page for a fictional cafe, designed to deliver 
 
 ## About
 **Velvet Cafe** was created to demonstrate modern, responsive web design for a fictional cafe. The project focuses on clean visuals, easy navigation, and performance optimization — giving visitors the feeling of stepping into a warm, welcoming space.
+
+This website is thoughtfully designed following **Ben Shneiderman’s 8 Golden Rules of UI Design** to ensure a user-centric experience. These principles guided decisions around consistency, feedback, error prevention, and intuitive interaction.
 
 ## Features
 - **Responsive Design**: Fully optimized for all devices — mobile, tablet, and desktop.
@@ -24,27 +27,31 @@ This is a simple yet elegant web page for a fictional cafe, designed to deliver 
 - **Fast Loading**: Optimized for quick performance and minimal load times.
 
 ## Technologies Used
-- **HTML5** — Page structure and semantic content
-- **CSS3** — Styling, layout, and responsiveness
+- **HTML5** — Page structure and semantic content  
+- **CSS3** — Styling, layout, and responsiveness  
+
+## Design Principles
+This project is inspired by **Ben Shneiderman’s 8 Golden Rules of User Interface Design**, which focus on enhancing user satisfaction and usability:
+
+1. **Strive for Consistency** – Uniform colors, fonts, layouts, and interactions across pages.  
+2. **Enable Frequent Users to Use Shortcuts** – Streamlined navigation for efficiency.  
+3. **Offer Informative Feedback** – Visual cues for hover effects, form submissions, and actions.  
+4. **Design Dialogs to Yield Closure** – Clear confirmation messages and form submission feedback.  
+5. **Offer Error Prevention and Simple Error Handling** – Easy-to-fill forms and helpful placeholder text.  
+6. **Permit Easy Reversal of Actions** – Simple back-navigation and reset options.  
+7. **Support Internal Locus of Control** – The user feels in control via intuitive interactions.  
+8. **Reduce Short-Term Memory Load** – Clean layout and logical information grouping to avoid overwhelming the user.
 
 ## Getting Started
+To view this project locally:
 
-To run the project locally:
+1. Clone the repository  
+2. Open `index.html` in your preferred browser
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/velvet-cafe.git
-   ```
-2. Navigate to the project folder and open `index.html` in your browser.
+```
+git clone https://github.com/your-username/velvet-cafe.git
+cd velvet-cafe
+```
+## Live Demo
 
-## Screenshots
-### Home Page
-![Home Page](./assets/images/homepage-screenshot.png)
-
-### Menu Section
-![Menu Section](./assets/images/menu-screenshot.png)
-
-### Contact Form
-![Contact Form](./assets/images/contactform-screenshot.png)
-## License
-This project is licensed under the [MIT License](LICENSE).
+Check out the live version here: [Velvet Cafe Live Site](https://algomystique.github.io/Velvet-Cafe)
