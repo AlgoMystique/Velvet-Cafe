@@ -8,7 +8,7 @@ This is a simple yet elegant web page for a fictional cafe, designed to deliver 
 
 This website is thoughtfully designed following **Ben Shneiderman’s 8 Golden Rules of UI Design** to ensure a user-centric experience. These principles guided decisions around consistency and intuitive interaction.
 
-![screenshot](screenshots/1.png)
+![screenshot](screenshots/screenshot1.png)
 
 
 ## Features
