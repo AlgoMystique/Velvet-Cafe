@@ -3,20 +3,13 @@
 Welcome to **Velvet Cafe**! ☕✨  
 This is a simple yet elegant web page for a fictional cafe, designed to deliver a smooth, cozy, and professional user experience.
 
-## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Design Principles](#design-principles)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-
 ## About
 **Velvet Cafe** was created to demonstrate modern, responsive web design for a fictional cafe. The project focuses on clean visuals, easy navigation, and performance optimization — giving visitors the feeling of stepping into a warm, welcoming space.
 
 This website is thoughtfully designed following **Ben Shneiderman’s 8 Golden Rules of UI Design** to ensure a user-centric experience. These principles guided decisions around consistency and intuitive interaction.
+
+![screenshot](screenshots/1.png)
+
 
 ## Features
 - **Responsive Design**: Fully optimized for all devices — mobile, tablet, and desktop.
